@@ -1,0 +1,32 @@
+/* menargetkan elemen "header utama"*/
+#Karakter-Utama{
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+/*menargetkan dengan infokontak dengan id"*/
+#info-kontak{
+    border-top: 20px solid lightgray;
+    font-size: 0,9cm;
+    padding:  10px;
+}
+p{
+    line-height: 1.5;
+    /*SOROTAN*/
+}
+.paragraf-biasa{
+    background-color: rgb(72, 98, 163);
+    font-weight: bold;
+    color: black;
+}
+/*judul bagian*/
+.judul-bagian{
+    color:teal;
+    border-bottom: 1px solid teal;
+}
+/*link*/
+a[:target="_blank"]{
+    color:red;
+    text-decoration:none;
+}
