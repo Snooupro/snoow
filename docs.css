@@ -1,14 +1,7 @@
-
-    @keyframes mymove {
-  from {
-    background-color: red;
-  }
-  to {
-    background-color: yellow;
-  }
+body{
+    background-image: url(images.jpeg);
 }
 
-}
 /* menargetkan elemen "header utama"*/
 #Karakter-Utama{
     background-color: navy;
