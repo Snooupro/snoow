@@ -38,12 +38,13 @@ a[:target="_blank"]{
 }
 .aku{
     background-color: aqua;
-    background-position: 50px;
-    border-bottom: 50px;
-    border-top: 50px;
+    background-position: 20px;
+    border-bottom: 20px;
+    border-top: 20px;
     border-color: black;
     text-align: center;
     font-size: large;
+    background-size: 30px;
     color: rgb(0, 0, 0);
 }
 
