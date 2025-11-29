@@ -11,12 +11,7 @@ body{
     padding: 20px;
     text-align: center;
 }
-/*menargetkan dengan infokontak dengan id"*/
-#info-kontak{
-    border-top: 25px solid lightgray;
-    font-size:1cm;
-    padding:  15px;
-}
+
 p{
     line-height: 1.5;
     /*SOROTAN*/
@@ -46,12 +41,5 @@ a[:target="_blank"]{
     font-size: large;
     color: rgb(0, 0, 0);
 }
-.kontak
-{
-    background-color: darkblue;
-    border-top: 30px;
-    border-bottom: 50px;
-    text-align: center;
 
-}
 
