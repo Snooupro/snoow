@@ -54,18 +54,4 @@ a[:target="_blank"]{
     text-align: center;
 
 }
-.animated-image-wrapper {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  animation: moveRight 5s linear infinite;
-}
 
-@keyframes moveRight {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(100px);
-  }
-}
