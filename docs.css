@@ -5,8 +5,8 @@ background-size: cover; /* Pastikan gambar menutupi seluruh area */
   background-position: center; /* Posisikan gambar di tengah */
   background-repeat: no-repeat; /* Cegah gambar berulang */
   background-attachment: fixed; /* Buat gambar tidak bergerak saat di-scroll */
-  height: 100vh; /* Atur tinggi elemen menjadi 100% dari tinggi layar */
-  width: 100vh;
+  height: 300vh; /* Atur tinggi elemen menjadi 100% dari tinggi layar */
+  width: 300vh;
 }
 
 /* menargetkan elemen "header utama"*/
@@ -45,7 +45,7 @@ a[:target="_blank"]{
     border-color: black;
     text-align: center;
     font-size: large;
-   
+   padding: 30px;
     color: rgb(0, 0, 0);
 }
 
