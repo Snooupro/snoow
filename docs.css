@@ -5,7 +5,8 @@ background-size: cover; /* Pastikan gambar menutupi seluruh area */
   background-position: center; /* Posisikan gambar di tengah */
   background-repeat: no-repeat; /* Cegah gambar berulang */
   background-attachment: fixed; /* Buat gambar tidak bergerak saat di-scroll */
-  height: 100vh; /* Atur tinggi elemen menjadi 100% dari tinggi layar */
+  height: 500vh; /* Atur tinggi elemen menjadi 100% dari tinggi layar */
+  width: 500vh;
 }
 
 /* menargetkan elemen "header utama"*/
