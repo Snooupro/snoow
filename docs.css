@@ -15,6 +15,7 @@ background-size: cover; /* Pastikan gambar menutupi seluruh area */
     color: white;
     padding: 20px;
     text-align: center;
+     
 }
 
 p{
@@ -25,11 +26,13 @@ p{
     background-color: rgb(72, 98, 163);
     font-weight: bold;
     color: black;
+    
 }
 /*judul bagian*/
 .judul-bagian{
     color:teal;
     border-bottom: 1px solid teal;
+     text-align: center;
 }
 /*link*/
 a[:target="_blank"]{
