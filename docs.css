@@ -1,5 +1,13 @@
-body{
-    background-image: url(Snow.jpg);
+
+    @keyframes mymove {
+  from {
+    background-color: red;
+  }
+  to {
+    background-color: yellow;
+  }
+}
+
 }
 /* menargetkan elemen "header utama"*/
 #Karakter-Utama{
