@@ -13,9 +13,9 @@ body{
 }
 /*menargetkan dengan infokontak dengan id"*/
 #info-kontak{
-    border-top: 40px solid lightgray;
-    font-size:1.0cm;
-    padding:  20px;
+    border-top: 25px solid lightgray;
+    font-size:1cm;
+    padding:  15px;
 }
 p{
     line-height: 1.5;
