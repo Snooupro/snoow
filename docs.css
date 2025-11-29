@@ -52,5 +52,20 @@ a[:target="_blank"]{
     border-top: 30px;
     border-bottom: 50px;
     text-align: center;
-    
+
+}
+.animated-image-wrapper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  animation: moveRight 5s linear infinite;
+}
+
+@keyframes moveRight {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(200px);
+  }
 }
