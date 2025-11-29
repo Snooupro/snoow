@@ -36,7 +36,7 @@ a[:target="_blank"]{
     color:red;
     text-decoration:none;
 }
-p {
+.aku{
     background-color: aqua;
     background-position: 15px;
     border-bottom: 15px;
@@ -44,5 +44,10 @@ p {
     border-color: black;
     text-align: center;
     font-size: large;
-    color: chartreuse;
+    color: lime;
+}
+.kontak
+{
+    background-color: darkblue;
+    border-top: 30px;
 }
