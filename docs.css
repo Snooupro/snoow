@@ -30,3 +30,6 @@ a[:target="_blank"]{
     color:red;
     text-decoration:none;
 }
+body {
+    background-image: url(Snow.jpg);
+}
