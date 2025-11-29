@@ -1,5 +1,7 @@
 body{
     background-image: url(images.jpeg);
+    background-size: auto;
+
 }
 
 /* menargetkan elemen "header utama"*/
