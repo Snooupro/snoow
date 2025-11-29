@@ -36,3 +36,13 @@ a[:target="_blank"]{
     color:red;
     text-decoration:none;
 }
+p {
+    background-color: aqua;
+    background-position: 15px;
+    border-bottom: 15px;
+    border-top: 15px;
+    border-color: black;
+    text-align: center;
+    font-size: large;
+    color: chartreuse;
+}
