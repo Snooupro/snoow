@@ -1,3 +1,6 @@
+body{
+    background-image: url(Snow.jpg);
+}
 /* menargetkan elemen "header utama"*/
 #Karakter-Utama{
     background-color: navy;
@@ -29,7 +32,4 @@ p{
 a[:target="_blank"]{
     color:red;
     text-decoration:none;
-}
-body {
-    background-image: url(Snow.jpg);
 }
